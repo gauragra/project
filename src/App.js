@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React  oksy 234567890
+          Learn React  oksy 234567890tytwsjks
         </a>
       </header>
     </div>
